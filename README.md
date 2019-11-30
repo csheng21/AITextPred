@@ -1,1 +1,2 @@
 # AITextPred
+AITextPred is Android App develop for purpose to help user to better recognize on product or item.  By implement with Google Machine Learning Technology, this App not merely able to clarify the product/object, but also able automatically extract and classify information from text. This is an obvious is a good App for users who are blind or vision impaired more convenience to recognize detail about the product.
