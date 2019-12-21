@@ -9,5 +9,7 @@ AITextPred is Android App develop for purpose to help user to better recognize o
 
 # Development Log
 21/12/2019  Initial committed APP template.
+
 21/12/2019  Initial Integrated TensorFlow Interface.
+
 21/12/2019  Initial Added ObjectDetector.
