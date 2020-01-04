@@ -19,10 +19,13 @@ AITextPred is Android App develop for purpose to help user to better recognize o
 4/12/2020 Initial complete for Image classification function
              i) Classify Malaysia Fruit: Mangis, Rambutan, Durian
              ii) UI Location: https://github.com/csheng21/AITextPred/tree/master/development/Image/test
+             
 4/12/2020  Integrated with camerakit-android lib:
               i) This camerakit-android library is from austinkettner, camerakit.io, Link: https://github.com/CameraKit/camerakit-android
+              
 4/12/2019 Added retrain dataset Lib and lite Model file: optimized_graph.lite and  output_graph.pb.
            i) Location: https://github.com/csheng21/AITextPred/tree/master/AITextPred/app/src/main/assets
+           
 4/12/2020  Compiled Apk - aitextpred_v001_beta.apk
              i) Location: https://drive.google.com/drive/folders/1LF1P96Cv0qFFiI1Yt0GJEM8I-z_iHBA7?usp=sharing 
  
